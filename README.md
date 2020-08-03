@@ -1,4 +1,4 @@
-# Mee6
+# mee6
 
 The essence of mee6 with a lot of utility classes and functions. Plugins are
 also defined here. Two sort of plugin exists: standalone and "not-standalone"
